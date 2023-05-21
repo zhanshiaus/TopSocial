@@ -18,3 +18,5 @@
 // git init 
 // git remote add origin https://github.com/zhanshiaus/TopSocial.git
 // git remote -v
+// git add .
+// git commit -m "add backend"
