@@ -29,6 +29,8 @@
 //  npm run server   (this equals to npx nodemon server.js)
 //  npm run json:server  
 
+// cd backend
+// npm run dev
 
 const express = require('express');
 const cors = require('cors')
